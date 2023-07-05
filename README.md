@@ -1,6 +1,6 @@
 <h1 align="center">Hi :wave:, I'm Runquan Ye :blush:</h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=runquanye&label=Profile%20views&color=0e75b6&style=flat" alt="JerryYK"> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=JerryYK&label=Profile%20views&color=0e75b6&style=flat" alt="JerryYK"> </p>
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
