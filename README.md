@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm Runquan Ye :blush:</h1>
 
 
-[![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
+[![Website](https://img.shields.io/website?label=JerryYK.com&style=for-the-badge&url=https%3A%2F%2FJerryYK.com)](https://JerryYK.com)
 
 
 - :seedling: Love to reasearch and learn interesting and fancy stuff.
