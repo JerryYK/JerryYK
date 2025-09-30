@@ -4,10 +4,10 @@
 [![Website](https://img.shields.io/website?label=JerryYK.com&style=for-the-badge&url=https%3A%2F%2FJerryYK.com)](https://JerryYK.com)
 
 
-- :seedling: Love to reasearch and learn interesting and fancy stuff.
-- My nickname is Jerry :mouse:.
+- :seedling: Love to research and learn interesting and fancy stuff.
+- My nickname is Jeremy.
 - :open_file_folder: Here are my [demo projects](https://github.com/RunquanYe/DemoProjects).
-- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
+- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**
 <br />
 
 ### Connect with me(You can click the icons):
